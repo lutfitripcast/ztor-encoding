@@ -1,0 +1,2 @@
+# Keep LF line endings on every platform: a script checked out with Windows line endings fails in the container ("bash\r").
+* text=auto eol=lf
